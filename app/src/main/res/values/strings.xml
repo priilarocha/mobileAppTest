@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Mobile Apps 1</string>
+    <string name="exit">Exit</string>
+    <string name="achievements">Achievements</string>
+    <string name="skills">Skills</string>
+    <string name="education">Education</string>
+    <string name="name">Priscila Rocha de Queiroz</string>
+    <string name="course">Science in Computing</string>
+    <string name="githubID">priilarocha</string>
+    <string name="githubicon">Github Icon (SVG Vector)</string>
+    <string name="profile_picture">My profile picture</string>
 </resources>
