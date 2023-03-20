@@ -13,9 +13,30 @@ class MainActivity : AppCompatActivity() {
 
         val clickEducation: Button = findViewById(R.id.button4)
         clickEducation.setOnClickListener { clickEducation() }
+
+        val clickSkills: Button = findViewById(R.id.button3)
+        clickSkills.setOnClickListener { clickSkills() }
+
+        val clickAchievements: Button = findViewById(R.id.button2)
+        clickSkills.setOnClickListener { clickAchievements() }
+
+        val clickExit: Button = findViewById(R.id.button)
+        clickSkills.setOnClickListener { clickExit() }
     }
 }
 
 private fun clickEducation() {
+
+}
+
+private fun clickSkills() {
+
+}
+
+private fun clickAchievements() {
+
+}
+
+private fun clickExit() {
 
 }
